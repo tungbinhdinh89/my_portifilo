@@ -2,8 +2,6 @@ import React, { useState } from "react";
 import "./services.css";
 
 function Services() {
-  //   const [modal, setModal] = useState(false);
-
   const [toggleState, setToggleState] = useState(0);
 
   const toggleTab = (index) => {
