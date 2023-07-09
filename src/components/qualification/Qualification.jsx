@@ -11,7 +11,7 @@ function Qualification() {
     <section className="qualification section">
       <h2 className="section__title">Qualification</h2>
       <span className="section__subtitle">My personel journey</span>
-      <div className="qualification__container container">
+      <div className=".qualification__container container">
         <div className="qualification__tabs">
           <div
             className={
